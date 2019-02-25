@@ -28,3 +28,5 @@ Note: Browser drivers are placed for mac inside resources/macDriver folder and f
  
  
   - To run this project, just clone this repo into your local machine and run the TestNG.xml file.
+  
+  <img width="1425" alt="report" src="https://user-images.githubusercontent.com/16473120/53318306-443e1c00-38e8-11e9-996d-3bd565535cd3.png">
