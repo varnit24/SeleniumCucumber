@@ -12,6 +12,10 @@
  This framework follows the Page Object Model approach. 
  Cucumber Extent report is used for the generation of Test reports.
  
+ - Report would be generated under target/extent-cucumber-reports folder.
+ - Screenshots would be generated under target/Screenshots folder.
+ - CSV file would be generated under target/ListingPriceCSV folder.
+ 
  Config.properties file can be used to pass the below parameters:
   - Operating system either Windows or Mac (os)
   - Browser either chrome or firefox (browserName)
